@@ -5,7 +5,6 @@ EMELI (Experimental Modeling Environment for Linking and Interoperability) is a 
 In order to use EMELI, you need a collection of BMI-enabled model components either written in Python or with Python bindings.  Because of this, the source code for EMELI is included in the <b>framework</b> folder of the <b>topoflow36</b> repository.  This can be found at:
 https://github.com/peckhams/topoflow36/tree/master/topoflow/framework.
 
-You can learn how EMELI works by reading the paper by Peckham (2014) in the <b>docs</b> folder.
-
-
+You can learn how EMELI works by reading the paper by Peckham (2014a) in the <b>docs</b> folder.  There you will also find the paper by Peckham et al. (2013) where the BMI standard was first introduced, and the paper by Peckham (2014b) where the CSDMS Standard Names were first introduced.  You may also be interested in the BMI-related repositories at:
+https://github.com/bmi-forum
 
